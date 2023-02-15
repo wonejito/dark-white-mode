@@ -30,7 +30,7 @@ body {
 .parrafo {
 	width: 50%;
 	height: 250px;
-	border: 2px solid blue;
+	/*border: 2px solid blue;*/
 	align-self: center;
 }
 
